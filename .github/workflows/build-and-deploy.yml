@@ -25,7 +25,7 @@ jobs:
     - name: Install and Build 🔧
       run: |
         npm install
-        npm run build
+        npm run generate
       env:
         BASE_URL: ${{ vars.BASE_URL  }}
 
