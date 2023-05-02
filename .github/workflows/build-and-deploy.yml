@@ -13,26 +13,21 @@ jobs:
       matrix:
         node-version: [18]
     steps:
-    - name: Checkout 🛎️
-      uses: actions/checkout@v3
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+      - name: Use Node.js 16
+        uses: actions/setup-node@v3
+        with:
+          # update the Node version to meet your needs
+          node-version: [14.x, 16.x, 18.x]
+          cache: npm
 
-    - name: Setup PNPM
-      uses: npm/action-setup@v2
-      with:
-        version: 7
-
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-
-    - name: Install & Generate 🔧
-      run: |
-        npm install
-        npm generate
-      env:
-        BASE_URL: ${{ vars.BASE_URL  }}
+      - name: Install and Build 🔧
+        run: |
+          npm install
+          npm run build
+        env:
+          BASE_URL: ${{ vars.BASE_URL  }}
 
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4
