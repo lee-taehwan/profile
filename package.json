@@ -1,5 +1,7 @@
 {
-  "name": "nuxt-app",
+  "name": "leetaehwan-profile",
+  "description": "이태환, 프로필, 포토폴리오, leetaehwan, profile, portfolio",
+  "author": "이태환",
   "private": true,
   "scripts": {
     "build": "nuxt build",
@@ -11,5 +13,9 @@
   "devDependencies": {
     "@types/node": "^18",
     "nuxt": "^3.4.3"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.10",
+    "pinia": "^2.0.36"
   }
 }
