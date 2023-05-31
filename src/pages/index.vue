@@ -34,9 +34,7 @@
               <h6>이름: <span class="text-secondary">이태환</span></h6>
             </div>
             <div class="col-sm-6 py-2">
-              <h6>
-                생년월일: <span class="text-secondary">1994.03.30</span>
-              </h6>
+              <h6>생년월일: <span class="text-secondary">1994.03.30</span></h6>
             </div>
             <div class="col-sm-6 py-2">
               <h6>Degree: <span class="text-secondary">Master</span></h6>
@@ -100,9 +98,7 @@
                 <strong>연세대학교</strong> |
                 <small>2021.09 - 재학중</small>
               </p>
-              <p>
-                컴퓨터공학과
-              </p>
+              <p>컴퓨터공학과</p>
             </div>
             <div class="position-relative mb-4">
               <i
@@ -114,9 +110,7 @@
                 <strong>상명대학교</strong> |
                 <small>2013.03 - 2019.02</small>
               </p>
-              <p>
-                컴퓨터공학과
-              </p>
+              <p>컴퓨터공학과</p>
             </div>
             <div class="position-relative mb-4">
               <i
@@ -128,8 +122,7 @@
                 <strong>신길고등학교</strong> |
                 <small>2010.03 - 2013.02</small>
               </p>
-              <p>
-              </p>
+              <p></p>
             </div>
           </div>
         </div>
@@ -145,9 +138,7 @@
               <p class="mb-2">
                 <strong>PD</strong> | <small>2019.06 - </small>
               </p>
-              <p>
-                진학닷컴, 교원채용, 캐치알바 웹 개발 및 유지보수
-              </p>
+              <p>진학닷컴, 교원채용, 캐치알바 웹 개발 및 유지보수</p>
             </div>
             <div class="position-relative mb-4">
               <i
@@ -158,9 +149,7 @@
               <p class="mb-2">
                 <strong>사원</strong> | <small>2019.01 - 2019.05</small>
               </p>
-              <p>
-                불량 디스플레이 검출 알고리즘 개발 및 유지보수
-              </p>
+              <p>불량 디스플레이 검출 알고리즘 개발 및 유지보수</p>
             </div>
           </div>
         </div>
@@ -440,14 +429,14 @@
           <div class="position-relative overflow-hidden mb-2">
             <img
               class="img-fluid rounded w-100"
-              src="../assets/images/portfolio-1.jpg"
+              src="@/assets/images/portfolio-1.jpg"
               alt=""
             />
             <div
               class="portfolio-btn bg-primary d-flex align-items-center justify-content-center"
             >
               <a
-                href="../assets/images/portfolio-1.jpg"
+                href="@/assets/images/portfolio-1.jpg"
                 data-lightbox="portfolio"
               >
                 <i class="fa fa-plus text-white" style="font-size: 60px"></i>
@@ -459,14 +448,14 @@
           <div class="position-relative overflow-hidden mb-2">
             <img
               class="img-fluid rounded w-100"
-              src="../assets/images/portfolio-2.jpg"
+              src="@/assets/images/portfolio-2.jpg"
               alt=""
             />
             <div
               class="portfolio-btn bg-primary d-flex align-items-center justify-content-center"
             >
               <a
-                href="../assets/images/portfolio-2.jpg"
+                href="@/assets/images/portfolio-2.jpg"
                 data-lightbox="portfolio"
               >
                 <i class="fa fa-plus text-white" style="font-size: 60px"></i>
@@ -478,14 +467,14 @@
           <div class="position-relative overflow-hidden mb-2">
             <img
               class="img-fluid rounded w-100"
-              src="../assets/images/portfolio-3.jpg"
+              src="@/assets/images/portfolio-3.jpg"
               alt=""
             />
             <div
               class="portfolio-btn bg-primary d-flex align-items-center justify-content-center"
             >
               <a
-                href="../assets/images/portfolio-3.jpg"
+                href="@/assets/images/portfolio-3.jpg"
                 data-lightbox="portfolio"
               >
                 <i class="fa fa-plus text-white" style="font-size: 60px"></i>
@@ -497,14 +486,14 @@
           <div class="position-relative overflow-hidden mb-2">
             <img
               class="img-fluid rounded w-100"
-              src="../assets/images/portfolio-4.jpg"
+              src="@/assets/images/portfolio-4.jpg"
               alt=""
             />
             <div
               class="portfolio-btn bg-primary d-flex align-items-center justify-content-center"
             >
               <a
-                href="../assets/images/portfolio-4.jpg"
+                href="@/assets/images/portfolio-4.jpg"
                 data-lightbox="portfolio"
               >
                 <i class="fa fa-plus text-white" style="font-size: 60px"></i>
@@ -516,14 +505,14 @@
           <div class="position-relative overflow-hidden mb-2">
             <img
               class="img-fluid rounded w-100"
-              src="../assets/images/portfolio-5.jpg"
+              src="@/assets/images/portfolio-5.jpg"
               alt=""
             />
             <div
               class="portfolio-btn bg-primary d-flex align-items-center justify-content-center"
             >
               <a
-                href="../assets/images/portfolio-5.jpg"
+                href="@/assets/images/portfolio-5.jpg"
                 data-lightbox="portfolio"
               >
                 <i class="fa fa-plus text-white" style="font-size: 60px"></i>
@@ -535,14 +524,14 @@
           <div class="position-relative overflow-hidden mb-2">
             <img
               class="img-fluid rounded w-100"
-              src="../assets/images/portfolio-6.jpg"
+              src="@/assets/images/portfolio-6.jpg"
               alt=""
             />
             <div
               class="portfolio-btn bg-primary d-flex align-items-center justify-content-center"
             >
               <a
-                href="../assets/images/portfolio-6.jpg"
+                href="@/assets/images/portfolio-6.jpg"
                 data-lightbox="portfolio"
               >
                 <i class="fa fa-plus text-white" style="font-size: 60px"></i>
@@ -583,7 +572,7 @@
               </h4>
               <img
                 class="img-fluid rounded-circle mx-auto mb-3"
-                src="../assets/images/testimonial-1.jpg"
+                src="@/assets/images/testimonial-1.jpg"
                 style="width: 80px; height: 80px"
               />
               <h5 class="font-weight-bold m-0">Client Name</h5>
@@ -598,7 +587,7 @@
               </h4>
               <img
                 class="img-fluid rounded-circle mx-auto mb-3"
-                src="../assets/images/testimonial-2.jpg"
+                src="@/assets/images/testimonial-2.jpg"
                 style="width: 80px; height: 80px"
               />
               <h5 class="font-weight-bold m-0">Client Name</h5>
@@ -613,7 +602,7 @@
               </h4>
               <img
                 class="img-fluid rounded-circle mx-auto mb-3"
-                src="../assets/images/testimonial-3.jpg"
+                src="@/assets/images/testimonial-3.jpg"
                 style="width: 80px; height: 80px"
               />
               <h5 class="font-weight-bold m-0">Client Name</h5>
@@ -647,7 +636,7 @@
           <div class="position-relative mb-4">
             <img
               class="img-fluid rounded w-100"
-              src="../assets/images/blog-1.jpg"
+              src="@/assets/images/blog-1.jpg"
               alt=""
             />
             <div class="blog-date">
@@ -664,7 +653,7 @@
           <div class="position-relative mb-4">
             <img
               class="img-fluid rounded w-100"
-              src="../assets/images/blog-2.jpg"
+              src="@/assets/images/blog-2.jpg"
               alt=""
             />
             <div class="blog-date">
@@ -681,7 +670,7 @@
           <div class="position-relative mb-4">
             <img
               class="img-fluid rounded w-100"
-              src="../assets/images/blog-3.jpg"
+              src="@/assets/images/blog-3.jpg"
               alt=""
             />
             <div class="blog-date">
