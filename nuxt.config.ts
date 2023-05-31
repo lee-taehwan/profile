@@ -20,8 +20,9 @@ export default defineNuxtConfig({
         },
       ],
     },
+    baseURL: '/profile',
   },
-  
+
   css: ['~/assets/css/style.css', '~/assets/css/style.min.css'],
 
   modules: ['@pinia/nuxt'],
