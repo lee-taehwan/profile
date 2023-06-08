@@ -1,6 +1,8 @@
 const pkg = require('./package.json');
 
 export default defineNuxtConfig({
+  srcDir: 'src/',
+  
   app: {
     baseURL: '/profile/',
 
@@ -27,6 +29,4 @@ export default defineNuxtConfig({
   css: ['@/assets/css/style.css'],
 
   modules: ['@pinia/nuxt'],
-
-  srcDir: 'src/',
 });
