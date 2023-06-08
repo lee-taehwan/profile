@@ -2,6 +2,8 @@ const pkg = require('./package.json');
 
 export default defineNuxtConfig({
   app: {
+    baseURL: '/profile/',
+    
     rootId: 'leetaehwan',
 
     head: {
@@ -20,7 +22,6 @@ export default defineNuxtConfig({
         },
       ],
     },
-    baseURL: '/profile/',
   },
 
   css: ['@/assets/css/style.css'],
