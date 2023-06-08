@@ -1,0 +1,1 @@
+import{_ as e,c,o as n}from"./entry.49efef06.js";const o={},t={class:"container-fluid py-5",id:"about"};function s(r,a){return n(),c("div",t," index.vue ")}const i=e(o,[["render",s]]);export{i as default};
