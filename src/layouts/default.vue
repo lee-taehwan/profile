@@ -1,7 +1,7 @@
 <template>
-  <CommonHeader v-if="!disableHeaderRouteNames.includes(route.name)" />
+  <!-- <CommonHeader v-if="!disableHeaderRouteNames.includes(route.name)" /> -->
   <NuxtPage />
-  <CommonFooter v-if="!disableFooterRouteNames.includes(route.name)" />
+  <!-- <CommonFooter v-if="!disableFooterRouteNames.includes(route.name)" /> -->
 </template>
 
 <script setup>
