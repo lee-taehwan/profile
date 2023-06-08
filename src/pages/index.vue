@@ -598,7 +598,7 @@
               </h4>
               <img
                 class="img-fluid rounded-circle mx-auto mb-3"
-                src="../assets/images/testimonial-2.jpg"
+                src="../assets/images/testimonial-1.jpg"
                 style="width: 80px; height: 80px"
               />
               <h5 class="font-weight-bold m-0">Client Name</h5>
@@ -649,7 +649,6 @@
               class="img-fluid rounded w-100"
               src="../assets/images/blog-1.jpg"
               alt=""
-              loading="lazy"
             />
             <div class="blog-date">
               <h4 class="font-weight-bold mb-n1">01</h4>
