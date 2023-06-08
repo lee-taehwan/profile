@@ -3,7 +3,7 @@ const pkg = require('./package.json');
 export default defineNuxtConfig({
   app: {
     baseURL: '/profile/',
-    
+
     rootId: 'leetaehwan',
 
     head: {

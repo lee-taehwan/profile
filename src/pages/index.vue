@@ -598,8 +598,9 @@
               </h4>
               <img
                 class="img-fluid rounded-circle mx-auto mb-3"
-                src="../assets/images/testimonial-1.jpg"
+                src="@/assets/images/testimonial-1.jpg"
                 style="width: 80px; height: 80px"
+                alt="`${../assets/images/testimonial-1.jpg}`"
               />
               <h5 class="font-weight-bold m-0">Client Name</h5>
               <span>Profession</span>
