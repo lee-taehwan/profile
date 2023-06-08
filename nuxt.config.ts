@@ -20,7 +20,7 @@ export default defineNuxtConfig({
         },
       ],
     },
-    baseURL: '/profile',
+    baseURL: '/profile/',
   },
 
   css: ['@/assets/css/style.css'],
