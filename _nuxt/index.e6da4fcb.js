@@ -1,0 +1,1 @@
+import{_ as e}from"./profile.53fa7e05.js";import{_ as o,c,o as r}from"./entry.a30cec08.js";const s={},t={class:"img-fluid rounded w-100",src:e,alt:""};function _(n,a){return r(),c("img",t)}const d=o(s,[["render",_]]);export{d as default};
