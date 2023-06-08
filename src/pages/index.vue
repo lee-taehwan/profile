@@ -583,7 +583,7 @@
               </h4>
               <img
                 class="img-fluid rounded-circle mx-auto mb-3"
-                src="../assets/images/testimonial-2.jpg"
+                src="../assets/images/testimonial-3.jpg"
                 style="width: 80px; height: 80px"
               />
               <h5 class="font-weight-bold m-0">Client Name</h5>
